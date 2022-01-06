@@ -1,0 +1,2 @@
+# firicks
+pip install firicks
